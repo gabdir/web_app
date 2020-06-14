@@ -1,2 +1,2 @@
 # web_app
-HTML, CSS and JS
+HTML, CSS, Vanilla JS and Node JS
